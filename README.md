@@ -5,3 +5,4 @@ A food ordering app made with flutter.
 
 ### Screenshots
 
+![](https://github.com/OLayemii/chyker-foods/blob/master/screenshots/1.jpg)
