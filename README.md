@@ -1,4 +1,4 @@
-A food ordering app made with flutter.
+A food ordering app built with flutter and firebase.
 
 [Still in development]
 
